@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "polaroo.slnx"
+    "dotnet.defaultSolution": "interantar-polaroo.slnx"
 }
